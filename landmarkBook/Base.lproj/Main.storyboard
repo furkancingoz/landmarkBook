@@ -60,7 +60,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gratewall" translatesAutoresizingMaskIntoConstraints="NO" id="6sk-Pa-cCY">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gratewall" translatesAutoresizingMaskIntoConstraints="NO" id="6sk-Pa-cCY">
                                 <rect key="frame" x="16" y="301" width="361" height="245"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="245" id="2dq-8x-2oA"/>
